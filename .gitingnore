@@ -1,5 +1,5 @@
-node_modules
-.env
+/node_modules
+
 DS_Store
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,zsh,dotenv
